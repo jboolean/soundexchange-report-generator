@@ -1,0 +1,16 @@
+{
+  "name": "wowd-log-processing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "icecast-log-parser": "^1.0.0",
+    "moment": "^2.22.2",
+    "ua-parser-js": "^0.7.19"
+  }
+}
